@@ -49,4 +49,5 @@ Additional resources include:
 - *The Art of Programming*, Volume 1 [[wiki](http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)]
 - [Shape catcher](http://shapecatcher.com/)
 - List of LaTeX [math symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
+- [Math Symbols Explained with Python](https://amitness.com/2019/08/math-for-programmers/)
 
